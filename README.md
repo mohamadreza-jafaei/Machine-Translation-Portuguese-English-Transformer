@@ -14,13 +14,13 @@ Matplotlib
 ## Results
 After training the Transformer network on the Portuguese-to-English translation task, we obtain a model that is able to accurately translate Portuguese sentences to English. Here are some example translations:
 
-Portuguese sentence				         English translation
+Portuguese sentence\t \t \t English translation
 
-Eu gosto de comer pizza.			    I like to eat pizza.
+Eu gosto de comer pizza.		\t \t \t	    I like to eat pizza.
 
-O meu gato é preto e branco.			My cat is black and white.
+O meu gato é preto e branco.	\t \t \t		My cat is black and white.
 
-Ele mora em São Paulo.				    He lives in São Paulo.
+Ele mora em São Paulo.			\t \t \t	    He lives in São Paulo.
 
 ## Credits
 This implementation of the Transformer network is based on the original paper by Vaswani et al., "Attention Is All You Need" (https://arxiv.org/abs/1706.03762). 
