@@ -1,4 +1,4 @@
-<!--Machine Translation from Portuguese to English using Transformer Network-->
+## Machine Translation from Portuguese to English using Transformer Network
 This project is an implementation of machine translation from Portuguese to English using a Transformer network. The Transformer network is a neural network architecture that was introduced in the paper "Attention Is All You Need" by Vaswani et al. It uses self-attention mechanisms to model the dependencies between different parts of the input sequence and has been shown to achieve state-of-the-art results on several natural language processing tasks, including machine translation.
 
 ## Dataset
