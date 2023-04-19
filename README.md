@@ -16,7 +16,7 @@ After training the Transformer network on the Portuguese-to-English translation 
 
 Portuguese sentence\t \t \t English translation
 
-Eu gosto de comer pizza.		\t \t \t	    I like to eat pizza.
+Eu gosto de comer pizza.		/t/t/t    I like to eat pizza.
 
 O meu gato é preto e branco.	\t \t \t		My cat is black and white.
 
